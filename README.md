@@ -1,3 +1,5 @@
+#### **~~(this is a joke repo)~~**
+
 This Python script will extract the canonical, legal, and definitely correct color of any file on your computer!
 
 Rejoice, colorists, for the days of guessing are over! just run `python main.py <path_to_file>` and you will be greeted with the color of your file in no time!
